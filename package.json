@@ -1,0 +1,25 @@
+{
+  "name": "patrickmorel.dev",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch" : "sass scss/main.scss css/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmorel/vue-portfolio.git"
+  },
+  "keywords": [
+    "vue3",
+    "scss"
+  ],
+  "author": "Patrick Morel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickmorel/vue-portfolio/issues"
+  },
+  "homepage": "https://github.com/patrickmorel/vue-portfolio#readme"
+}
